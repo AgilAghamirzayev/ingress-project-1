@@ -1,4 +1,4 @@
-package com.ingress.authms.model.client;
+package com.ingress.userms.model.client;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

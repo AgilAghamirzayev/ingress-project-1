@@ -3,7 +3,6 @@ package com.ingress.authms.factory;
 import com.ingress.authms.security.model.AccessTokenClaimsSet;
 import com.ingress.authms.security.model.RefreshTokenClaimsSet;
 
-import java.time.LocalDateTime;
 import java.util.Date;
 
 import static com.ingress.authms.model.constants.AuthConstants.ISSUER;

@@ -1,7 +1,6 @@
 package com.ingress.authms.model.response;
 
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 
 @Data

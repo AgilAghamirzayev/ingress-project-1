@@ -1,6 +1,5 @@
 package com.ingress.authms.controller;
 
-import com.ingress.authms.model.client.UserClientResponse;
 import com.ingress.authms.model.request.LoginRequest;
 import com.ingress.authms.model.response.TokenResponse;
 import com.ingress.authms.service.AuthenticationService;
